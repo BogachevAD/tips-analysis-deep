@@ -1,6 +1,6 @@
 # tips-analysis-deep
 
-![preview](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/_static/seaborn-logo-wide.png)
+[preview](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/_static/seaborn-logo-wide.png)
 
 # 📊 Tips Analysis: Deep Dive
 
