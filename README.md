@@ -1,7 +1,5 @@
 # tips-analysis-deep
 
-[preview](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/_static/seaborn-logo-wide.png)
-
 # 📊 Tips Analysis: Deep Dive
 
 Анализ поведения клиентов ресторана по чаевым. Сравниваются две группы:
